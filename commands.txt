@@ -1,0 +1,11 @@
+list disk
+select disk 1
+clean all
+select disk 2
+clean all
+select disk 3
+clean all
+select disk 4
+clean all
+select disk 5
+clean all
